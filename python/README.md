@@ -1,4 +1,4 @@
-# lib8relay
+# lib8relayhv
 
 This is the python library to control the  8-Relay High Voltage  Stackable Card for Raspberry Pi.
 
