@@ -30,6 +30,6 @@ If you clone the repository any update can be made with the following commands:
 ~/8relayhv-rpi$ sudo make install
 ```  
 
-### [Python library](https://github.com/SequentMicrosystems/8relayhv-rpi/python)
+### [Python library](https://github.com/SequentMicrosystems/8relayhv-rpi/tree/main/python)
 
 
